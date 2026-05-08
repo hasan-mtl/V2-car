@@ -1,0 +1,837 @@
+{
+  "source": "https://topauto.innov8up.com/",
+  "createdAt": "2026-05-08T02:06:20.129Z",
+  "totals": {
+    "files": 165,
+    "failures": 0,
+    "indexBytes": 144603
+  },
+  "files": [
+    {
+      "url": "https://topauto.innov8up.com/",
+      "localPath": "index.html",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/js/lightbox.570c05c5a283cfb6b223.bundle.min.js",
+      "localPath": "wp-content/plugins/elementor/assets/js/lightbox.570c05c5a283cfb6b223.bundle.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/js/397f2d183c19202777d6.bundle.min.js",
+      "localPath": "wp-content/plugins/elementor/assets/js/397f2d183c19202777d6.bundle.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/js/shared-frontend-handlers.03caa53373b56d3bab67.bundle.min.js",
+      "localPath": "wp-content/plugins/elementor/assets/js/shared-frontend-handlers.03caa53373b56d3bab67.bundle.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/js/text-editor.45609661e409413f1cef.bundle.min.js",
+      "localPath": "wp-content/plugins/elementor/assets/js/text-editor.45609661e409413f1cef.bundle.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/js/counter.12335f45aaa79d244f24.bundle.min.js",
+      "localPath": "wp-content/plugins/elementor/assets/js/counter.12335f45aaa79d244f24.bundle.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.3",
+      "localPath": "wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/css/conditionals/dialog.min.css?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/css/conditionals/dialog.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/css/conditionals/lightbox.min.css?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/css/conditionals/lightbox.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/pro-elements/assets/js/nav-menu.8521a0597c50611efdc6.bundle.min.js",
+      "localPath": "wp-content/plugins/pro-elements/assets/js/nav-menu.8521a0597c50611efdc6.bundle.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/pro-elements/assets/js/gallery.06be1c07b9901f53d709.bundle.min.js",
+      "localPath": "wp-content/plugins/pro-elements/assets/js/gallery.06be1c07b9901f53d709.bundle.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/pro-elements/assets/js/nested-carousel.db797a097fdc5532ef4a.bundle.min.js",
+      "localPath": "wp-content/plugins/pro-elements/assets/js/nested-carousel.db797a097fdc5532ef4a.bundle.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/pro-elements/assets/js/popup.f7b15b2ca565b152bf98.bundle.min.js",
+      "localPath": "wp-content/plugins/pro-elements/assets/js/popup.f7b15b2ca565b152bf98.bundle.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/pro-elements/assets/js/form.71055747203b48a65a24.bundle.min.js",
+      "localPath": "wp-content/plugins/pro-elements/assets/js/form.71055747203b48a65a24.bundle.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.1",
+      "localPath": "wp-content/plugins/instagram-feed/css/sbi-styles.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.7",
+      "localPath": "wp-content/themes/hello-elementor/assets/css/reset.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.7",
+      "localPath": "wp-content/themes/hello-elementor/assets/css/theme.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.7",
+      "localPath": "wp-content/themes/hello-elementor/assets/css/header-footer.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/css/frontend.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/elementor/css/post-5.css?ver=1777762879",
+      "localPath": "wp-content/uploads/elementor/css/post-5.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/css/widget-image.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/pro-elements/assets/css/widget-nav-menu.min.css?ver=3.35.0",
+      "localPath": "wp-content/plugins/pro-elements/assets/css/widget-nav-menu.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css?ver=2.3.0",
+      "localPath": "wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+      "localPath": "wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/css/widget-heading.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/css/widget-counter.min.css?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/css/widget-counter.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/css/widget-icon-list.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/css/widget-icon-box.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/pro-elements/assets/css/widget-gallery.min.css?ver=3.35.0",
+      "localPath": "wp-content/plugins/pro-elements/assets/css/widget-gallery.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0",
+      "localPath": "wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/pro-elements/assets/css/conditionals/transitions.min.css?ver=3.35.0",
+      "localPath": "wp-content/plugins/pro-elements/assets/css/conditionals/transitions.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/css/widget-rating.min.css?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/css/widget-rating.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/css/widget-image-box.min.css?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/css/widget-image-box.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/pro-elements/assets/css/widget-nested-carousel.min.css?ver=3.35.0",
+      "localPath": "wp-content/plugins/pro-elements/assets/css/widget-nested-carousel.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/pro-elements/assets/css/widget-form.min.css?ver=3.35.0",
+      "localPath": "wp-content/plugins/pro-elements/assets/css/widget-form.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/css/widget-social-icons.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/elementor/css/post-11.css?ver=1778198669",
+      "localPath": "wp-content/uploads/elementor/css/post-11.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/elementor/css/base-desktop.css?ver=69f6824048db4",
+      "localPath": "wp-content/uploads/elementor/css/base-desktop.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/elementor/css/post-84.css?ver=1777762880",
+      "localPath": "wp-content/uploads/elementor/css/post-84.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Plus+Jakarta+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "localPath": "external/fonts.googleapis.com/css/e1510a530d.css",
+      "contentType": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Inter:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "localPath": "external/fonts.googleapis.com/css/56c2213980.css",
+      "contentType": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "localPath": "external/fonts.googleapis.com/css/6f414e7849.css",
+      "contentType": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "localPath": "wp-includes/js/jquery/jquery.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "localPath": "wp-includes/js/jquery/jquery-migrate.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-json/wp/v2/pages/11",
+      "localPath": "wp-json/wp/v2/pages/11.json",
+      "contentType": "application/json; charset=UTF-8"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/Logo-%E2%86%92-Link.svg",
+      "localPath": "wp-content/uploads/2026/04/Logo-→-Link.svg",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/b_be_f_b_b_f_e_mp_.mp4",
+      "localPath": "wp-content/uploads/2026/04/b_be_f_b_b_f_e_mp_.mp4",
+      "contentType": "video/mp4"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/Bugatti_Chiron_in_202604250351-rotated.jpeg",
+      "localPath": "wp-content/uploads/2026/04/Bugatti_Chiron_in_202604250351-rotated.jpeg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/Bugatti_Chiron_parked_202604250324.jpeg",
+      "localPath": "wp-content/uploads/2026/04/Bugatti_Chiron_parked_202604250324.jpeg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/White_Chevrolet_Camaro_202604250208.jpeg",
+      "localPath": "wp-content/uploads/2026/04/White_Chevrolet_Camaro_202604250208.jpeg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/63f99694-b6be-4767-8417-ba08248d5b45.jpg",
+      "localPath": "wp-content/uploads/2026/04/63f99694-b6be-4767-8417-ba08248d5b45.jpg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/63f99694-b6be-4767-8417-ba08248d5b45-768x1365.jpg",
+      "localPath": "wp-content/uploads/2026/04/63f99694-b6be-4767-8417-ba08248d5b45-768x1365.jpg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/3864c3ad-e6e7-4b5f-99dd-fbb45d3da5d4.jpg",
+      "localPath": "wp-content/uploads/2026/04/3864c3ad-e6e7-4b5f-99dd-fbb45d3da5d4.jpg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/3864c3ad-e6e7-4b5f-99dd-fbb45d3da5d4-768x512.jpg",
+      "localPath": "wp-content/uploads/2026/04/3864c3ad-e6e7-4b5f-99dd-fbb45d3da5d4-768x512.jpg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/ae57dd05-caa1-4fcf-9893-37846c57df87.jpg",
+      "localPath": "wp-content/uploads/2026/04/ae57dd05-caa1-4fcf-9893-37846c57df87.jpg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/ae57dd05-caa1-4fcf-9893-37846c57df87-768x1367.jpg",
+      "localPath": "wp-content/uploads/2026/04/ae57dd05-caa1-4fcf-9893-37846c57df87-768x1367.jpg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/cac3bac5-183e-4d7a-9bbd-7015664bc6ca.jpg",
+      "localPath": "wp-content/uploads/2026/04/cac3bac5-183e-4d7a-9bbd-7015664bc6ca.jpg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/cac3bac5-183e-4d7a-9bbd-7015664bc6ca-768x1365.jpg",
+      "localPath": "wp-content/uploads/2026/04/cac3bac5-183e-4d7a-9bbd-7015664bc6ca-768x1365.jpg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/de14d29d-d38e-42b2-b14f-072342282738.jpg",
+      "localPath": "wp-content/uploads/2026/04/de14d29d-d38e-42b2-b14f-072342282738.jpg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/de14d29d-d38e-42b2-b14f-072342282738-768x512.jpg",
+      "localPath": "wp-content/uploads/2026/04/de14d29d-d38e-42b2-b14f-072342282738-768x512.jpg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/df95d580-a0c5-4dff-a99e-c07c39456bc6.jpg",
+      "localPath": "wp-content/uploads/2026/04/df95d580-a0c5-4dff-a99e-c07c39456bc6.jpg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/df95d580-a0c5-4dff-a99e-c07c39456bc6-768x1155.jpg",
+      "localPath": "wp-content/uploads/2026/04/df95d580-a0c5-4dff-a99e-c07c39456bc6-768x1155.jpg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/platform/Google/icon.svg",
+      "localPath": "external/cdn.trustindex.io/assets/platform/Google/icon.svg",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/a-/ALV-UjW-d4JlBKV5MnTWiTa5rypEC1UDXKhpZIJAhObovp05xbtnIdpQ-Q=w40-h40-c-rp-mo-br100",
+      "localPath": "external/lh3.googleusercontent.com/a-/ALV-UjW-d4JlBKV5MnTWiTa5rypEC1UDXKhpZIJAhObovp05xbtnIdpQ-Q=w40-h40-c-rp-mo-br100.png",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "localPath": "external/cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/a-/ALV-UjWVGRyQNdKy7CJE3iowFBrlPqNQOsOKQ3iOUDqNOUNCb-FdeC_D=w40-h40-c-rp-mo-br100",
+      "localPath": "external/lh3.googleusercontent.com/a-/ALV-UjWVGRyQNdKy7CJE3iowFBrlPqNQOsOKQ3iOUDqNOUNCb-FdeC_D=w40-h40-c-rp-mo-br100.png",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/a-/ALV-UjUXq-PdfWguxVVww4EHWWMVUi3p4VnCLS5vhh00m0ix1FdL48Y=w40-h40-c-rp-mo-ba2-br100",
+      "localPath": "external/lh3.googleusercontent.com/a-/ALV-UjUXq-PdfWguxVVww4EHWWMVUi3p4VnCLS5vhh00m0ix1FdL48Y=w40-h40-c-rp-mo-ba2-br100.png",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/a/ACg8ocLimB156iKUjxDVcnn8J6z-AOnFa9wb8um-4FDrkHdoDcJ6Yw=w40-h40-c-rp-mo-br100",
+      "localPath": "external/lh3.googleusercontent.com/a/ACg8ocLimB156iKUjxDVcnn8J6z-AOnFa9wb8um-4FDrkHdoDcJ6Yw=w40-h40-c-rp-mo-br100.png",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/a/ACg8ocIjORW54bWEtyewoE1ZfT9cWlTFqwyVhj_DNkyAOhN5WpEWH34=w40-h40-c-rp-mo-br100",
+      "localPath": "external/lh3.googleusercontent.com/a/ACg8ocIjORW54bWEtyewoE1ZfT9cWlTFqwyVhj_DNkyAOhN5WpEWH34=w40-h40-c-rp-mo-br100.png",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/a-/ALV-UjWl-hQjvPBM-0I66VuzFah5SxjCwzzc6VkoF6605Yl94u5ihF4U=w40-h40-c-rp-mo-br100",
+      "localPath": "external/lh3.googleusercontent.com/a-/ALV-UjWl-hQjvPBM-0I66VuzFah5SxjCwzzc6VkoF6605Yl94u5ihF4U=w40-h40-c-rp-mo-br100.png",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/a/ACg8ocKrJl55TPbG2JNgy6FCrawbWN_-KTU83orv5iq5TEgAb3G2An8=w40-h40-c-rp-mo-ba3-br100",
+      "localPath": "external/lh3.googleusercontent.com/a/ACg8ocKrJl55TPbG2JNgy6FCrawbWN_-KTU83orv5iq5TEgAb3G2An8=w40-h40-c-rp-mo-ba3-br100.png",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/a-/ALV-UjXbes7Wt6igXNpkTUEP6s7K3fWhmdk_k1ZQzFiaZ-aQ959dPM3N0g=w40-h40-c-rp-mo-br100",
+      "localPath": "external/lh3.googleusercontent.com/a-/ALV-UjXbes7Wt6igXNpkTUEP6s7K3fWhmdk_k1ZQzFiaZ-aQ959dPM3N0g=w40-h40-c-rp-mo-br100.png",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/a/ACg8ocIq3OYts3Rx53BsSI_gBgh4EuUZVU4lOIkdo1Y6Q5_szDwjxg=w40-h40-c-rp-mo-br100",
+      "localPath": "external/lh3.googleusercontent.com/a/ACg8ocIq3OYts3Rx53BsSI_gBgh4EuUZVU4lOIkdo1Y6Q5_szDwjxg=w40-h40-c-rp-mo-br100.png",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://cdn.trustindex.io/loader.js?wp-widget",
+      "localPath": "external/cdn.trustindex.io/loader__b93e3c40fb.js",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/trustindex-google-widget.css?1777499844",
+      "localPath": "wp-content/uploads/trustindex-google-widget__3a7c2c61f8.css",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/elementor/thumbs/Bugatti_Chiron_parked_202604250324-rmhw6yplqqwcqy1fppwhe42f0u6lc0hmpbhzkkmkfc.jpeg",
+      "localPath": "wp-content/uploads/elementor/thumbs/Bugatti_Chiron_parked_202604250324-rmhw6yplqqwcqy1fppwhe42f0u6lc0hmpbhzkkmkfc.jpeg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.7",
+      "localPath": "wp-content/themes/hello-elementor/assets/js/hello-frontend.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/js/webpack.runtime.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/js/frontend-modules.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+      "localPath": "wp-includes/js/jquery/ui/core.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.0.5",
+      "localPath": "wp-content/plugins/elementor/assets/js/frontend.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/pro-elements/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+      "localPath": "wp-content/plugins/pro-elements/assets/lib/smartmenus/jquery.smartmenus.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1",
+      "localPath": "wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+      "localPath": "wp-includes/js/imagesloaded.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+      "localPath": "wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0",
+      "localPath": "wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://cdn.trustindex.io/loader.js?ver=1",
+      "localPath": "external/cdn.trustindex.io/loader.js",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.35.0",
+      "localPath": "wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1",
+      "localPath": "wp-includes/js/dist/hooks.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375",
+      "localPath": "wp-includes/js/dist/i18n.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/pro-elements/modules/lottie/assets/animations/default.json",
+      "localPath": "wp-content/plugins/pro-elements/modules/lottie/assets/animations/default.json",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.35.0",
+      "localPath": "wp-content/plugins/pro-elements/assets/js/frontend.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.35.0",
+      "localPath": "wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/jet-tabs/assets/js/jet-tabs-frontend.min.js?ver=2.3.0",
+      "localPath": "wp-content/plugins/jet-tabs/assets/js/jet-tabs-frontend.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4",
+      "localPath": "wp-includes/js/wp-emoji-release.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-includes/js/wp-emoji-loader.min.js",
+      "localPath": "wp-includes/js/wp-emoji-loader.min.js",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/instagram-feed/img/sbi-sprite.png",
+      "localPath": "wp-content/plugins/instagram-feed/img/sbi-sprite.png",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/plugins/jet-tabs/assets/images/spinner-32.svg",
+      "localPath": "wp-content/plugins/jet-tabs/assets/images/spinner-32.svg",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/White_sports_car_202604250357.jpeg",
+      "localPath": "wp-content/uploads/2026/04/White_sports_car_202604250357.jpeg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/04/Bugatti_Chiron_parked_202604250322.jpeg",
+      "localPath": "wp-content/uploads/2026/04/Bugatti_Chiron_parked_202604250322.jpeg",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://topauto.innov8up.com/wp-content/uploads/2026/05/Ceramic-Coating-application.png",
+      "localPath": "wp-content/uploads/2026/05/Ceramic-Coating-application.png",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yOqhNnZR-AHYA.woff2",
+      "localPath": "external/fonts.gstatic.com/s/plusjakartasans/v12/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yOqhNnZR-AHYA.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yGqhNnZR-AHYA.woff2",
+      "localPath": "external/fonts.gstatic.com/s/plusjakartasans/v12/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yGqhNnZR-AHYA.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yCqhNnZR-AHYA.woff2",
+      "localPath": "external/fonts.gstatic.com/s/plusjakartasans/v12/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4yCqhNnZR-AHYA.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4y6qhNnZR-A.woff2",
+      "localPath": "external/fonts.gstatic.com/s/plusjakartasans/v12/LDIuaomQNQcsA88c7O9yZ4KMCoOg4Koz4y6qhNnZR-A.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko70yygg_vbd-E.woff2",
+      "localPath": "external/fonts.gstatic.com/s/plusjakartasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko70yygg_vbd-E.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko50yygg_vbd-E.woff2",
+      "localPath": "external/fonts.gstatic.com/s/plusjakartasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko50yygg_vbd-E.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yygg_vbd-E.woff2",
+      "localPath": "external/fonts.gstatic.com/s/plusjakartasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yygg_vbd-E.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yygg_vb.woff2",
+      "localPath": "external/fonts.gstatic.com/s/plusjakartasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yygg_vb.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L0UUMbndwVgHU.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L0UUMbndwVgHU.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L9UUMbndwVgHU.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L9UUMbndwVgHU.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L1UUMbndwVgHU.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L1UUMbndwVgHU.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L6UUMbndwVgHU.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L6UUMbndwVgHU.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L2UUMbndwVgHU.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L2UUMbndwVgHU.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L3UUMbndwVgHU.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L3UUMbndwVgHU.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L5UUMbndwV.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L5UUMbndwV.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaSTbQWt4N.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaSTbQWt4N.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaSTbQWt4N.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaSTbQWt4N.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaSTbQWt4N.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaSTbQWt4N.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaSTbQWt4N.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaSTbQWt4N.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaSTbQWt4N.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaSTbQWt4N.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaSTbQWt4N.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaSTbQWt4N.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaSTbQWt4N.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaSTbQWt4N.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaSTbQWt4N.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaSTbQWt4N.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBHMdazTgWw.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBHMdazTgWw.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBHMdazTgWw.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBHMdazTgWw.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBHMdazTgWw.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBHMdazTgWw.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBHMdazTgWw.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBHMdazTgWw.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBHMdazTgWw.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBHMdazTgWw.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBHMdazTgWw.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBHMdazTgWw.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+      "localPath": "external/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/devanagari-italic.woff2",
+      "localPath": "external/cdn.trustindex.io/assets/fonts/poppins/devanagari-italic.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-ext-italic.woff2",
+      "localPath": "external/cdn.trustindex.io/assets/fonts/poppins/latin-ext-italic.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-italic.woff2",
+      "localPath": "external/cdn.trustindex.io/assets/fonts/poppins/latin-italic.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/devanagari-italic-600.woff2",
+      "localPath": "external/cdn.trustindex.io/assets/fonts/poppins/devanagari-italic-600.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-ext-italic-600.woff2",
+      "localPath": "external/cdn.trustindex.io/assets/fonts/poppins/latin-ext-italic-600.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-italic-600.woff2",
+      "localPath": "external/cdn.trustindex.io/assets/fonts/poppins/latin-italic-600.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/devanagari.woff2",
+      "localPath": "external/cdn.trustindex.io/assets/fonts/poppins/devanagari.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-ext.woff2",
+      "localPath": "external/cdn.trustindex.io/assets/fonts/poppins/latin-ext.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin.woff2",
+      "localPath": "external/cdn.trustindex.io/assets/fonts/poppins/latin.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/devanagari-600.woff2",
+      "localPath": "external/cdn.trustindex.io/assets/fonts/poppins/devanagari-600.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-ext-600.woff2",
+      "localPath": "external/cdn.trustindex.io/assets/fonts/poppins/latin-ext-600.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-600.woff2",
+      "localPath": "external/cdn.trustindex.io/assets/fonts/poppins/latin-600.woff2",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/icon/ti-info-light.svg",
+      "localPath": "external/cdn.trustindex.io/assets/icon/ti-info-light.svg",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/icon/ti-info-regular.svg",
+      "localPath": "external/cdn.trustindex.io/assets/icon/ti-info-regular.svg",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/platform/Trustindex/icon.svg",
+      "localPath": "external/cdn.trustindex.io/assets/platform/Trustindex/icon.svg",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/icon/ti-quote.svg",
+      "localPath": "external/cdn.trustindex.io/assets/icon/ti-quote.svg",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/platform/Trustindex/star/s.svg",
+      "localPath": "external/cdn.trustindex.io/assets/platform/Trustindex/star/s.svg",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/icon/ti-verified.svg",
+      "localPath": "external/cdn.trustindex.io/assets/icon/ti-verified.svg",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/icon/ti-verified-green.svg",
+      "localPath": "external/cdn.trustindex.io/assets/icon/ti-verified-green.svg",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/icon/ti-verified-black.svg",
+      "localPath": "external/cdn.trustindex.io/assets/icon/ti-verified-black.svg",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/img/loading_dots.gif",
+      "localPath": "external/cdn.trustindex.io/assets/img/loading_dots.gif",
+      "contentType": "image/gif"
+    }
+  ],
+  "failures": []
+}
