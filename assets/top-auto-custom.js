@@ -1,6 +1,6 @@
 /* =====================================================================
    Top Auto Aesthetics — Premium redesign interactions
-   Custom cursor · Preloader · Reveals · Counters · Magnetic buttons
+   Custom cursor · Preloader · Reveals · Counters
    Tilt · Reviews marquee · Gallery lightbox · Form mock · Nav effects
    ===================================================================== */
 
@@ -49,7 +49,7 @@
 
     // target (mouse)
     let tx = innerWidth / 2, ty = innerHeight / 2;
-    // each layer has its own lag → spreading-light feel
+    // Keep every visual layer pinned to the real pointer so the cursor never feels delayed.
     let dx = tx, dy = ty;       // dot   – tight
     let rx = tx, ry = ty;       // ring  – mid
     let ax = tx, ay = ty;       // aura  – soft
@@ -60,14 +60,14 @@
     addEventListener('mouseenter', () => cur.classList.remove('is-hidden'));
 
     const loop = () => {
-      dx += (tx - dx) * 0.65;
-      dy += (ty - dy) * 0.65;
-      rx += (tx - rx) * 0.22;
-      ry += (ty - ry) * 0.22;
-      ax += (tx - ax) * 0.14;
-      ay += (ty - ay) * 0.14;
-      hx += (tx - hx) * 0.08;
-      hy += (ty - hy) * 0.08;
+      dx = tx;
+      dy = ty;
+      rx = tx;
+      ry = ty;
+      ax = tx;
+      ay = ty;
+      hx = tx;
+      hy = ty;
       if (dot)  dot.style.transform  = `translate3d(${dx}px, ${dy}px, 0)`;
       if (ring) ring.style.transform = `translate3d(${rx}px, ${ry}px, 0)`;
       if (aura) aura.style.transform = `translate3d(${ax}px, ${ay}px, 0)`;
@@ -148,23 +148,7 @@
 
   /* --------------------- Magnetic buttons --------------------- */
   function initMagnetic() {
-    if (isCoarse) return;
-    const items = $$('[data-magnetic]');
-    items.forEach(el => {
-      const strength = 0.28;
-      let rect;
-      const onEnter = () => { rect = el.getBoundingClientRect(); };
-      const onMove = (e) => {
-        if (!rect) rect = el.getBoundingClientRect();
-        const x = e.clientX - (rect.left + rect.width / 2);
-        const y = e.clientY - (rect.top + rect.height / 2);
-        el.style.transform = `translate(${x * strength}px, ${y * strength}px)`;
-      };
-      const onLeave = () => { el.style.transform = ''; rect = null; };
-      el.addEventListener('pointerenter', onEnter);
-      el.addEventListener('pointermove',  onMove);
-      el.addEventListener('pointerleave', onLeave);
-    });
+    // Buttons stay fixed in place; hover is handled with color only in CSS.
   }
 
   /* --------------------- Tilt --------------------- */
