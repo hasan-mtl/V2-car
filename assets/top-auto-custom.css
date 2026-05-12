@@ -442,12 +442,22 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 .ta-preloader.is-done { opacity: 0; visibility: hidden; }
 .ta-preloader__inner { display: grid; justify-items: center; gap: 18px; }
 .ta-preloader__mark {
-  display: flex; align-items: baseline; gap: 10px;
-  font-family: 'Jost', sans-serif; font-size: 48px; letter-spacing: -0.03em;
+  display: grid;
+  justify-items: center;
+  gap: 14px;
+  text-align: center;
 }
-.ta-preloader__mono { color: var(--ink-0); font-weight: 300; }
-.ta-preloader__script {
-  font-weight: 500;
+.ta-preloader__mark img {
+  width: min(220px, 62vw);
+  height: auto;
+  filter: drop-shadow(0 18px 42px rgba(0, 0, 0, 0.58));
+}
+.ta-preloader__mark span {
+  font-family: 'Jost', sans-serif;
+  font-size: clamp(28px, 5vw, 48px);
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0.01em;
   background: var(--grad-gold); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;
 }
 .ta-preloader__bar {
