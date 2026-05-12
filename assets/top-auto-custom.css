@@ -98,10 +98,11 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 /* ---------- Floating Steering-Wheel contact dial ---------- */
 .ta-steer {
   position: fixed;
-  right: clamp(20px, 3vw, 36px);
-  bottom: clamp(20px, 3vw, 36px);
+  right: clamp(12px, 2vw, 24px);
+  bottom: clamp(12px, 2vw, 24px);
   z-index: 90;
-  width: 78px; height: 78px;
+  width: 60px; height: 60px;
+  opacity: .82;
 }
 
 .ta-steer__btn {
@@ -248,7 +249,7 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 
 /* mobile — slightly smaller wheel */
 @media (max-width: 680px) {
-  .ta-steer { width: 66px; height: 66px; right: 16px; bottom: 16px; }
+  .ta-steer { width: 54px; height: 54px; right: 12px; bottom: 12px; }
   .ta-steer__item a { font-size: 11px; padding: 9px 12px 9px 10px; letter-spacing: 0.14em; }
 }
 
